@@ -1,0 +1,23 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-marketplace.json",
+  "name": "mitmdump-skill",
+  "version": "1.0.0",
+  "description": "mitmdump HTTP traffic capture skill for intercepting and analyzing HTTP/HTTPS flows with Python scripts",
+  "owner": {
+    "name": "yhr",
+    "email": "yhr@example.com"
+  },
+  "plugins": [
+    {
+      "name": "mitmdump",
+      "description": "mitmdump HTTP/HTTPS traffic capture tool with Python addons for filtering and analysis",
+      "version": "1.0.0",
+      "author": {
+        "name": "yhr",
+        "email": "yhr@example.com"
+      },
+      "source": "./mitmdump",
+      "category": "network"
+    }
+  ]
+}
