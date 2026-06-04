@@ -5,10 +5,6 @@ version: 1.0.0
 author: yhr
 license: MIT
 platforms: [macos, linux]
-metadata:
-  hermes:
-    tags: [network, http, capture, mitmproxy, traffic-analysis, proxy]
-    related_skills: [api-data-scraping]
 ---
 
 # mitmdump 抓包工具

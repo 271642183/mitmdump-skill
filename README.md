@@ -1,6 +1,6 @@
-# mitmdump Skill for Hermes Agent
+# mitmdump Skill
 
-本仓库是 Hermes Agent 的 mitmdump 抓包技能，用于拦截和分析 HTTP/HTTPS 流量，特别适合 AI Agent 自动化场景。
+本仓库是 mitmdump 抓包技能，用于拦截和分析 HTTP/HTTPS 流量。
 
 ## 原工具：mitmproxy
 
