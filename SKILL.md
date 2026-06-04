@@ -2,7 +2,7 @@
 name: mitmdump
 description: Use when the user says "抓包", "抓取流量", "intercept HTTP", "需要抓某应用的包", "配置 mitmdump", or "mitmproxy 脚本". Captures HTTP/HTTPS traffic via mitmdump with Python scripts for AI-driven automation and analysis.
 version: 1.0.0
-author: Hermes Agent
+author: yhr
 license: MIT
 platforms: [macos, linux]
 metadata:
